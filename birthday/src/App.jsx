@@ -7,7 +7,7 @@ const App = () => {
   return (
     <main>
       <section className='container'>
-        <h2>{people.length} birthdays today</h2>
+        <h3>{people.length} birthdays today</h3>
         <List people={people} />
         <button
           className='btn btn-block'
