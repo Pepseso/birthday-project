@@ -307,6 +307,5 @@ main {
 }
 
 .person p {
-  border: 2px solid red;
   color: var(--grey-500);
 }
